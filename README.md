@@ -1,8 +1,5 @@
 https://subtle-mochi-ec346e.netlify.app/
 
-https://github.com/iamhenrika/react-fashion-blog-mockup
-
-
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
