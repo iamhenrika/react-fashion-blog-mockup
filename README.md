@@ -1,4 +1,4 @@
-react mock up
+react mock-up
 
 https://subtle-mochi-ec346e.netlify.app/
 
